@@ -63,16 +63,6 @@ ICASSP 2023
 - Tencent Innovation Scholarship, Tencent Foundation. *2023*  
 - 3rd Place Award of First National Electronic Data Forensics Competition. *2023*  
 - 2nd Place Award of CPIPC - First China Graduate Network Security Innovation Competition. *2022*  
-- 3rd Place Award of [First "AI based Channel Modeling and Generating" Competition](https://www.datafountain.cn/competitions/557). *2022*  
+- 3rd Place Award of First "AI based Channel Modeling and Generating" Competition. *2022*  
 - 2nd Place Award of CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition. *2021*  
-
-
-- National scholarship.  *2018*, *2019*, *2021*.
-- [华泰证券科技奖学金](https://cs.pku.edu.cn/info/1428/3643.htm).  *2022*.
-- Outstanding Graduates in Shanghai Jiao Tong University.  *2020*
-- A-class scholarship in Shanghai Jiao Tong University (top 1 in the major). *2018*.
-- B-class scholarship in Shanghai Jiao Tong University.  *2017*, *2019*.
-- [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/)  (唐仲英德育奖学金). *2018*, *2019*
-- [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002) (金龙鱼奖学金).  *2017*.
-- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018*
 
