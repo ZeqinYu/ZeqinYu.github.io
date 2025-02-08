@@ -13,6 +13,13 @@ If you are interested in my research or would like to explore collaboration oppo
 - **Master's**, Shenzhen University (2020 – 2023)
 - **Bachelor's**, Shenzhen University (2016 – 2020)
 
+# Experience
+
+**Alibaba Security**, July 2021 – November 2021  
+
+*Supervised by [Dr. Yang Rui](https://ieeexplore.ieee.org/author/37089437837) and [Dr. Zeng Jishen](https://scholar.google.com/citations?user=KCpNs7cAAAAJ&hl=en)*  
+
+
 
 <!-- Command: Include research topics and specific interests -->
 <!-- Command: Mention collaboration opportunities -->
