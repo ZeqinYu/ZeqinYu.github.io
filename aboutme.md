@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Zeqin Yu, and I am currently a PhD student at Sun Yat-sen University. My research interests are primarily focused on **multimedia security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out!
 
-What else do you need?
+<!-- Command: Include research topics and specific interests -->
+<!-- Command: Mention collaboration opportunities -->
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
