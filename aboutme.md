@@ -32,7 +32,7 @@ If you are interested in my research or would like to explore collaboration oppo
 # Experience
 **Alibaba Security**, *Jul. 2021 - Nov. 2021*
 
-- Advised by [Dr. Rui Yang](https://ieeexplore.ieee.org/author/37089437837) and [Dr. Jishen Zeng](https://scholar.google.com/citations?user=KCpNs7cAAAAJ&hl=en)*  
+- Advised by [Dr. Rui Yang](https://ieeexplore.ieee.org/author/37089437837) and [Dr. Jishen Zeng](https://scholar.google.com/citations?user=KCpNs7cAAAAJ&hl=en)
 
 
 
