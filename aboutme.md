@@ -58,11 +58,12 @@ ICASSP 2023
 
 # Hornors & Awards
 
-- 1st Place Award of 2023 CPIPC - Fifth China Graduate AI Innovation Competition   
-- 3rd Place Award of 2023 First National Electronic Data Forensics Competition  
-- 2nd Place Award of 2022 CPIPC - First China Graduate Network Security Innovation Competition  
-- 3rd Place Award of [2022 First "AI based Channel Modeling and Generating" Competition](https://www.datafountain.cn/competitions/557)  
-- 2nd Place Award of 2021 CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition  
+- 1st Place Award of CPIPC - Fifth China Graduate AI Innovation Competition. **2023 **  
+- Tencent Innovation Scholarship, TENCENT FOUNDATION. **2023**  
+- 3rd Place Award of First National Electronic Data Forensics Competition. **2023 **  
+- 2nd Place Award of CPIPC - First China Graduate Network Security Innovation Competition. **2022 **  
+- 3rd Place Award of [First "AI based Channel Modeling and Generating" Competition](https://www.datafountain.cn/competitions/557). **2022 **  
+- 2nd Place Award of CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition. **2021 **  
 
 
 - National scholarship.  *2018*, *2019*, *2021*.
