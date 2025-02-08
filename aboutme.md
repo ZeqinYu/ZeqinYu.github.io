@@ -72,20 +72,4 @@ ICASSP 2023
 - **2nd** Place Award of "CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition". *2021*
 - Other **Top 10** Awards: *4 times*
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Leaflet Map Example</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-</head>
-<body>
-    <div id="map" style="width: 600px; height: 400px;"></div>
-    <script>
-        var map = L.map('map').setView([51.505, -0.09], 13);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-    </script>
-</body>
-</html>
-
 
