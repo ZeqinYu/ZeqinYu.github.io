@@ -58,11 +58,11 @@ ICASSP 2023
 
 # Hornors & Awards
 
-- 1st Place Award of ** 2023 Fifth China Graduate AI Innovation Competition** 
-- 3rd Place Award of **2023 First National Electronic Data Forensics Competition** 
-- 2nd Place Award of **2022 First China Graduate Network Security Innovation Competition** 
-- 3rd Place Award of **2022 First "AI-Based Channel Modeling and Virtual Channel Construction" Competition**
-- 2nd Place Award of **2021 CCF Big Data and Computational Intelligence Competition (CCF-BDCI)**
+- 1st Place Award of 2023 Fifth China Graduate AI Innovation Competition   
+- 3rd Place Award of 2023 First National Electronic Data Forensics Competition  
+- 2nd Place Award of 2022 First China Graduate Network Security Innovation Competition  
+- 3rd Place Award of [2022 First "AI based Channel Modeling and Generating" Competition] (https://www.datafountain.cn/competitions/557)  
+- 2nd Place Award of 2021 CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition  
 
 
 - National scholarship.  *2018*, *2019*, *2021*.
