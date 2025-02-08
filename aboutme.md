@@ -64,5 +64,6 @@ ICASSP 2023
 - 3rd Place Award of "First National Electronic Data Forensics Competition". *2023*  
 - 2nd Place Award of "CPIPC-First China Graduate Network Security Innovation Competition". *2022*  
 - 3rd Place Award of "First AI based Channel Modeling and Generating" Competition. *2022*  
-- 2nd Place Award of "CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition". *2021*  
+- 2nd Place Award of "CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition". *2021*
+- Other Top 10 Awards: *4 times*
 
