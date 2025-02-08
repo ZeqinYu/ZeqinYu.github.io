@@ -21,7 +21,7 @@ If you are interested in my research or would like to explore collaboration oppo
 
 - Master student at the College of Electronics and Information Engineering.
 - Advised by [Prof. Bin Li](https://scholar.google.com/citations?user=g0iR9IkAAAAJ&hl=en).
-- Worked in the [Guangdong Key Laboratory of Intelligent Information Processing](https://iip.szu.edu.cn/) and [Shenzhen Key Laboratory of Media Security](https://media-sec.szu.edu.cn/index.htm).
+- Worked in the Guangdong Key Laboratory of Intelligent Information Processing and Shenzhen Key Laboratory of Media Security.
 
 
 **Shenzhen University**, *Sep. 2016 - Jun. 2020*
