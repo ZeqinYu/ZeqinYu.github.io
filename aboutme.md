@@ -19,17 +19,19 @@ If you are interested in my research or would like to explore collaboration oppo
 
 [**Sun Yat-sen University**], *Sep. 2023 - Present*
 
-- PhD student at the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/).
+- PhD student at the School of Computer Science and Engineering.
 - Advised by [Prof. Jiangqun Ni](https://scst.sysu.edu.cn/members/members01/1408534.htm).
 
 [**Shenzhen University**], *Sep. 2020 - Jun. 2023*
 
-- Master student at the [College of Electronics and Information Engineering].
+- Master student at the College of Electronics and Information Engineering.
 - Advised by [Prof. Bin Li](https://scholar.google.com/citations?user=g0iR9IkAAAAJ&hl=en).
+- Worked in the [Guangdong Key Laboratory of Intelligent Information Processing](https://iip.szu.edu.cn/) and [Shenzhen Key Laboratory of Media Security](https://media-sec.szu.edu.cn/index.htm).
+
 
 [**Shenzhen University**], *Sep. 2016 - Jun. 2020*
 
-- Bachelor student at the [College of Electronics and Information Engineering].
+- Bachelor student at the College of Electronics and Information Engineering.
 
 
 # Experience
