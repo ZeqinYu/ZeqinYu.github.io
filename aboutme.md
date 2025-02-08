@@ -39,14 +39,17 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Publications
 
-- Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization (AAAI-2025)
-**Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin \\
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization
+**Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin
+AAAI2025
 
-- DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization (CVPR2024) 
-**Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li \\
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization
+**Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li
+CVPR2024
 
-- Learning to Locate the Text Forgery in Smartphone Screenshots (ICASSP2023)
-**Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng \\
+Learning to Locate the Text Forgery in Smartphone Screenshots
+**Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
+ICASSP2023
 
 
 
