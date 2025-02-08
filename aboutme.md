@@ -58,6 +58,13 @@ ICASSP 2023
 
 # Hornors & Awards
 
+- 1st Place Award of ** 2023 Fifth China Graduate AI Innovation Competition** 
+- 3rd Place Award of **2023 First National Electronic Data Forensics Competition** 
+- 2nd Place Award of **2022 First China Graduate Network Security Innovation Competition** 
+- 3rd Place Award of **2022 First "AI-Based Channel Modeling and Virtual Channel Construction" Competition**
+- 2nd Place Award of **2021 CCF Big Data and Computational Intelligence Competition (CCF-BDCI)**
+
+
 - National scholarship.  *2018*, *2019*, *2021*.
 - [华泰证券科技奖学金](https://cs.pku.edu.cn/info/1428/3643.htm).  *2022*.
 - Outstanding Graduates in Shanghai Jiao Tong University.  *2020*
