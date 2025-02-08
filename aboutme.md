@@ -51,10 +51,9 @@ Learning to Locate the Text Forgery in Smartphone Screenshots
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 ICASSP 2023
 
-This work was conducted for the **"2022 Real-World Image Forgery Detection Challenge"(真实场景篡改图像检测挑战赛, 2022年)**. If you use the data from this challenge in your research, please cite our work as follows: [XXX](#).
+This work was conducted for the [**"2022 Real-World Image Forgery Detection Challenge"(真实场景篡改图像检测挑战赛)**](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k). If you use the data from this challenge in your research, please cite our work as follows: [XXX](#).
 
-This paper presents the work conducted for the **"Real-World Image Forgery Detection Challenge"**. If you use the data from this challenge in your research, please cite our work as follows: [XXX](#). Additionally, a portion of this data has been used in the ICDAR competition, although we have not publicly disclosed this. If you use the data from the ICDAR competition, please also cite our paper accordingly.
-
+Additionally, a portion of this data has been used in the [**"ICDAR 2023 DTT in Images"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E)** competition, although the organizers have not publicly disclosed this. If you use the data from this competition, please also cite our paper accordingly.
 
 
 
