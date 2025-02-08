@@ -13,6 +13,25 @@ If you are interested in my research or would like to explore collaboration oppo
 - **Master's**, Shenzhen University (2020 – 2023)
 - **Bachelor's**, Shenzhen University (2016 – 2020)
 
+----------------------------
+
+# Education
+
+[**Sun Yat-sen University**], *Sep. 2023 - Present*
+
+- PhD student at the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/).
+- Advised by [Prof. Jiangqun Ni](https://scst.sysu.edu.cn/members/members01/1408534.htm).
+
+[**Shenzhen University**], *Sep. 2020 - Jun. 2023*
+
+- Master student at the [College of Electronics and Information Engineering].
+- Advised by [Prof. Bin Li](https://scholar.google.com/citations?user=g0iR9IkAAAAJ&hl=en).
+
+[**Shenzhen University**], *Sep. 2016 - Jun. 2020*
+
+- Bachelor student at the [College of Electronics and Information Engineering].
+
+
 # Experience
 
 **Alibaba Security**, July 2021 – November 2021  
