@@ -61,7 +61,7 @@ ICASSP 2023
 - 1st Place Award of 2023 CPIPC - Fifth China Graduate AI Innovation Competition   
 - 3rd Place Award of 2023 First National Electronic Data Forensics Competition  
 - 2nd Place Award of 2022 CPIPC - First China Graduate Network Security Innovation Competition  
-- 3rd Place Award of [2022 First "AI based Channel Modeling and Generating" Competition] (https://www.datafountain.cn/competitions/557)  
+- 3rd Place Award of [2022 First "AI based Channel Modeling and Generating" Competition](https://www.datafountain.cn/competitions/557)  
 - 2nd Place Award of 2021 CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition  
 
 
