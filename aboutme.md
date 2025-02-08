@@ -56,6 +56,11 @@ ICASSP 2023
 
 ----------------------------
 
+# Research Grants
+- Special Fund for the Cultivation of Science and Technology Innovation for Guangdong University Students (PI), 20kRMB, 2022-2024.
+
+----------------------------
+
 # Hornors & Awards
 
 - **1st** Place Award of "CPIPC-Fifth China Graduate AI Innovation Competition". *2023*
