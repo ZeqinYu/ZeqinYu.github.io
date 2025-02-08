@@ -8,11 +8,11 @@ My research interests are primarily focused on **multimedia security**, particul
 
 If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out!
 
-### Education
+# Education
+- **PhD**, Sun Yat-sen University (2023 – Present)
+- **Master's**, Shenzhen University (2020 – 2023)
+- **Bachelor's**, Shenzhen University (2016 – 2020)
 
-- **PhD in Computer Science**, Sun Yat-sen University (202x – Present)
-- **Master of Science in Computer Science**, [Your Master's University Name] (20xx – 20xx)
-- **Bachelor of Science in [Your Undergraduate Major]**, [Your Bachelor's University Name] (20xx – 20xx)
 
 <!-- Command: Include research topics and specific interests -->
 <!-- Command: Mention collaboration opportunities -->
