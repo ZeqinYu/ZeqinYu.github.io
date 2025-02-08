@@ -35,7 +35,36 @@ If you are interested in my research or would like to explore collaboration oppo
 - Advised by [Dr. Rui Yang](https://ieeexplore.ieee.org/author/37089437837) and [Dr. Jishen Zeng](https://scholar.google.com/citations?user=KCpNs7cAAAAJ&hl=en)
 
 
+----------------------------
 
-<!-- Command: Include research topics and specific interests -->
-<!-- Command: Mention collaboration opportunities -->
+# Publications
+
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization \\
+   Z Yu, J Ni, J Zhang, H Deng, Y Lin \\
+   Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25) 2025
+
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization \\
+ Z Yu, J Ni, Y Lin, H Deng, B Li \\
+ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+
+Learning to Locate the Text Forgery in Smartphone Screenshots \\
+   Z Yu, B Li, Y Lin, J Zeng, J Zeng \\
+   ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
+
+
+
+
+
+----------------------------
+
+# Hornors & Awards
+
+- National scholarship.  *2018*, *2019*, *2021*.
+- [华泰证券科技奖学金](https://cs.pku.edu.cn/info/1428/3643.htm).  *2022*.
+- Outstanding Graduates in Shanghai Jiao Tong University.  *2020*
+- A-class scholarship in Shanghai Jiao Tong University (top 1 in the major). *2018*.
+- B-class scholarship in Shanghai Jiao Tong University.  *2017*, *2019*.
+- [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/)  (唐仲英德育奖学金). *2018*, *2019*
+- [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002) (金龙鱼奖学金).  *2017*.
+- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018*
 
