@@ -54,5 +54,4 @@ ICASSP 2023
 - **2nd** Place Award of "CCF Big Data & Computing Intelligence Contest (CCF-BDCI) Competition". *2021*
 - Other **Top 10** Awards: *4 times*
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FAh6jVrO41CXmbLIjNReASZb7kMoMLZ2ovhgR-stAC4&cl=ffffff&w=a"></script>
 <a href="https://clustrmaps.com/site/1c49m"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=FAh6jVrO41CXmbLIjNReASZb7kMoMLZ2ovhgR-stAC4&cl=ffffff" /></a>
