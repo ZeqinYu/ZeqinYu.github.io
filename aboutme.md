@@ -7,7 +7,7 @@ Hello! My name is Zeqin Yu, and I am currently a PhD student at Sun Yat-sen Univ
 
 My research interests are primarily focused on **multimedia security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content. I also have extensive experience in competitions and data creation, particularly with real-world tampered images and videos.
 
-If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out! **I am also currently looking for internship or exchange student opportunities**.
+If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out! **I am also currently looking for internship or exchange student opportunities!**
 
 ----------------------------
 
