@@ -5,7 +5,7 @@ title: About Me
 
 Hello! My name is Zeqin Yu, and I am currently a PhD student at Sun Yat-sen University, advised by [Prof. Jiangqun Ni](https://scst.sysu.edu.cn/members/members01/1408534.htm). I completed my Master's degree at Shenzhen University, where I was advised by [Prof. Bin Li](https://scholar.google.com/citations?user=g0iR9IkAAAAJ&hl=en) and worked in the [Guangdong Key Laboratory of Intelligent Information Processing](https://iip.szu.edu.cn/) and [Shenzhen Key Laboratory of Media Security](https://media-sec.szu.edu.cn/index.htm). I obtained my Bachelor's degree from Shenzhen University as well.
 
-My research interests are primarily focused on **multimedia security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content. I also have extensive experience in competitions and data creation, particularly in real-world tampered text image.
+My research interests are primarily focused on **multimedia security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content. I also have extensive experience in competitions and data creation, particularly with real-world tampered images and videos.
 
 If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out!
 
