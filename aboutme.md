@@ -43,11 +43,6 @@ ICASSP 2023
 
 ----------------------------
 
-# Reviewer
-- TPAMI (since 2024)
-
-----------------------------
-
 # Hornors & Awards
 
 - **1st** Place Award of Fifth China Graduate AI Innovation Competition, CPIPC. *2023*
