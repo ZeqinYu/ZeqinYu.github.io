@@ -55,6 +55,6 @@ ICASSP 2023
 - Other **Top 10** Awards: *4 times*
 
 <script type="text/javascript" id="clustrmaps" 
-  src="//clustrmaps.com/map_v2.js?d=FAh6jVrO41CXmbLIjNReASZb7kMoMLZ2ovhgR-stAC4&cl=ffffff&w=250&h=175">
+  src="//clustrmaps.com/map_v2.js?d=FAh6jVrO41CXmbLIjNReASZb7kMoMLZ2ovhgR-stAC4&cl=ffffff&w=250">
 </script>
 
