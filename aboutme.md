@@ -23,15 +23,15 @@ If you are interested in my research or would like to explore collaboration oppo
 
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
-AAAI 2025 (Oral)
+Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (Oral)
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization  
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
-CVPR 2024
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
 Learning to Locate the Text Forgery in Smartphone Screenshots <span style="color:red;">(New Benchmark!)</span>  
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
-ICASSP 2023  
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)  
 > - The partial datasets proposed in this paper were applied to the ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).
 > - Additionally, a portion of this dataset has been used in the ["ICDAR 2023 DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and ["ICDAR 2023 DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E) competitions, although the organizers have not publicly disclosed this.
 > - If you use the data from these competitions in your research, please cite our paper.
