@@ -23,7 +23,7 @@ If you are interested in my research or would like to explore collaboration oppo
 
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
-Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (Oral)
+Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization  
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
