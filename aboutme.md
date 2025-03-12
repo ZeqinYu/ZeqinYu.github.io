@@ -14,7 +14,7 @@ If you are interested in my research or would like to explore collaboration oppo
 # Experience
 **Alibaba Security**, *Jul. 2021 - Nov. 2021*
 
-- Research Intern, advised by Dr. Rui Yangand Dr. Jishen Zeng.
+- Research Intern, advised by Dr. Rui Yang and Dr. Jishen Zeng.
 - Conducted research on image forensics in real-world scenarios, focusing on screenshot image forensics.
 
 ----------------------------
