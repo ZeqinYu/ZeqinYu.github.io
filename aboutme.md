@@ -39,7 +39,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 ----------------------------
 
 # Research Grants
-- Special Fund for the Cultivation of Science and Technology Innovation for Guangdong University Students (PI), 20kRMB, *2022.04-2024.04*. (Outstanding)
+- Special Fund for the Cultivation of Science and Technology Innovation for Guangdong University Students (PI), 20kRMB, *2022.04-2024.04*. (**Outstanding**)
 
 ----------------------------
 # Reviewer
