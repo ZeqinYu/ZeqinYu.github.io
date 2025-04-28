@@ -42,7 +42,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 - Special Fund for the Cultivation of Science and Technology Innovation for Guangdong University Students (PI), 20kRMB, *2022.04-2024.04*.
 
 ----------------------------
-
+# Reviewer
+TPAMI, ACM MM, NeurIPS
+----------------------------
 # Hornors & Awards
 
 - *2023*, **1st** Place Award of Fifth China Graduate AI Innovation Competition, CPIPC. 
