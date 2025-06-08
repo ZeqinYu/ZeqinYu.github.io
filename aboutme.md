@@ -29,7 +29,7 @@ DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localiz
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
-Learning to Locate the Text Forgery in Smartphone Screenshots
+Learning to Locate the Text Forgery in Smartphone Screenshots<br>
 [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net)
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
