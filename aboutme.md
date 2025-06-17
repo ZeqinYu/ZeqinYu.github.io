@@ -51,7 +51,7 @@ TPAMI, ACM MM, NeurIPS
 
 - *2023*, **1st** Place Award of Fifth China Graduate AI Innovation Competition, CPIPC. 
 - *2023, 2020*, Outstanding Graduates in Shenzhen University.  
-- *2023*, Tencent Innovation Scholarship (腾讯创新奖学金), Tencent Foundation.   
+- *2023*, Tencent Innovation Scholarship, Tencent Foundation.   
 - *2023*, **3rd** Place Award of First National Electronic Data Forensics Competition.  
 - *2022*, **2nd** Place Award of First China Graduate Network Security Innovation Competition, CPIPC. 
 - *2022*, **3rd** Place Award of First AI based Channel Modeling and Generating Competition, OPPO.  
