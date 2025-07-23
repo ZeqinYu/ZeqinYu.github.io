@@ -49,7 +49,7 @@ TPAMI, ACM MM, NeurIPS
 ----------------------------
 # Hornors & Awards
 
-- **1st** Place Award ×2, respectively in the **Detection Track** and the **Localization Track**, [ICCV 2025 Detecting Synthetic Manipulations in ID Documents (DeepID 2025)](https://deepid-iccv.github.io/#leaderboard), *2025*. [(Solution)](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight)
+- **1st** Place Award ×2, respectively in the **Detection Track** and the **Localization Track**, ICCV 2025 Detecting Synthetic Manipulations in ID Documents [(DeepID 2025)](https://deepid-iccv.github.io/#leaderboard), *2025*. [(Solution)](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight)
 - **1st** Place Award, Fifth China Graduate AI Innovation Competition, CPIPC, *2023*. 
 - Outstanding Graduates, Shenzhen University, *2023, 2020*.  
 - Tencent Innovation Scholarship, Tencent Foundation, *2023*.   
