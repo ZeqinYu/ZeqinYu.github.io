@@ -21,6 +21,10 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Publications
 
+Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis
+**Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang
+The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2025)
+
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
