@@ -49,7 +49,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 ----------------------------
 # Reviewer
-IEEE TPAMI, ACM MM, NeurIPS
+IEEE TPAMI, ACM MM, NeurIPS, CVPR
 
 ----------------------------
 # Honors & Awards
