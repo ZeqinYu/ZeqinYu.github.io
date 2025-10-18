@@ -8,7 +8,7 @@ Hello! My name is Zeqin Yu, and I am currently a third-year PhD student at Sun Y
 
 My research interests are primarily focused on **Multimedia Forensics and Security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content. I also have extensive experience in [competitions](#honors--awards) related to the above research areas.
 
-If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out! ~~**I am also currently looking for internship or exchange student opportunities!**~~ **I am currently seeking potential job opportunities.**
+If you are interested in my research or would like to explore collaboration opportunities, feel free to reach out! ~~**I am also currently looking for internship or exchange student opportunities!**~~ **I am currently exploring potential job opportunities in advance.**
 
 ----------------------------
 
