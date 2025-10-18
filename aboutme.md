@@ -13,6 +13,10 @@ If you are interested in my research or would like to explore collaboration oppo
 ----------------------------
 
 # Experience
+**Nanyang Technological University (NTU)**, *Oct. 2025 – Present*  
+- Visiting PhD Student, supervised by **Asst. Prof. Lin Wang** (Visual Intelligence Lab, EEE).  
+- Conducting research on **multimedia forensics**, including **image and video forgery detection**.
+
 **Alibaba Security**, *Jul. 2021 - Nov. 2021*
 
 - Research Intern, supervised by Dr. Rui Yang and Dr. Jishen Zeng.
