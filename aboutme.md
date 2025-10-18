@@ -14,7 +14,7 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Experience
 **Nanyang Technological University (NTU)**, *Oct. 2025 – Present*  
-- Visiting PhD Student, ROSE Lab, School of Electrical and Electronic Engineering (EEE).  
+- Visiting Student, ROSE Lab, School of Electrical and Electronic Engineering (EEE).  
 
 **Alibaba Security**, *Jul. 2021 - Nov. 2021*
 
