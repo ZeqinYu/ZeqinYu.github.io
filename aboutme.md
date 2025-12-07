@@ -3,8 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hello! My name is Zeqin Yu, and I am currently a third-year PhD student at Sun Yat-sen University (*Sep 2023 - Jun 2027*), supervised by Prof. Jiangqun Ni. I completed my Master's degree at Shenzhen University, where I was advised by Prof. Bin Li and worked in the [Guangdong Key Laboratory of Intelligent Information Processing](https://iip.szu.edu.cn/info/1025/1028.htm) and Shenzhen Key Laboratory of Media Security. I obtained my Bachelor's degree from Shenzhen University as well.
-
+Hello! My name is Zeqin Yu, and I am currently a third-year PhD student at Sun Yat-sen University (*Sep 2023 - Jun 2027*), supervised by Prof. Jiangqun Ni. 
 
 My research interests are primarily focused on **Multimedia Forensics and Security**, particularly in detecting and preventing manipulation and forgery of images, videos, and other media content. I also have extensive experience in [competitions](#honors--awards) related to the above research areas.
 
