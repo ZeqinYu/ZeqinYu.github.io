@@ -30,7 +30,7 @@ NeurIPS 2025 [![github](https://img.shields.io/badge/-Github-black?logo=github)]
 
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
-AAAI 2025 (**Oral**)  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD) [![arXiv](https://img.shields.io/badge/Arxiv-2511.12658-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.05224)
+AAAI 2025 (**Oral**)  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD) [![arXiv](https://img.shields.io/badge/Arxiv-2504.05224-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.05224)
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
