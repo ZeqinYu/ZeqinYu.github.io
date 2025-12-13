@@ -28,7 +28,7 @@ Toward Real-world Text Image Forgery Localization: Structured and Interpretable 
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
 The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
-Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)]](https://github.com/ZeqinYu/Re-MTKD)  
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD)  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
