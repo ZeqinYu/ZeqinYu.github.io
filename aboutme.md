@@ -35,12 +35,12 @@ Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forg
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics) [![Paper](https://img.shields.io/badge/Paper-PDF-orange)](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffForensics_Leveraging_Diffusion_Prior_to_Image_Forgery_Detection_and_Localization_CVPR_2024_paper.html) <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffForensics_Leveraging_Diffusion_Prior_to_Image_Forgery_Detection_and_Localization_CVPR_2024_paper.html) <br>
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
 Learning to Locate the Text Forgery in Smartphone Screenshots <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-orange)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 > - The partial datasets proposed in this paper were applied to the ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).
