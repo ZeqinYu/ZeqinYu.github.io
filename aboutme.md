@@ -24,15 +24,15 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Publications
 
-Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis [page](https://github.com/ZeqinYu/FSTS)  
+Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis [[Home Page]](https://github.com/ZeqinYu/FSTS)  
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
 The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
-Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [page](https://github.com/ZeqinYu/Re-MTKD)  
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [[Home Page]](https://github.com/ZeqinYu/Re-MTKD)  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
-DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [page](https://github.com/ZeqinYu/STFL-Net)  
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [[Home Page]](https://github.com/ZeqinYu/STFL-Net)  
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
