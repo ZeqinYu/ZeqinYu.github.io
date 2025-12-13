@@ -32,7 +32,7 @@ Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forg
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
-DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization    
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [[Home Page]](https://github.com/ZeqinYu/DiffForensics)  
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
