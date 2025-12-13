@@ -26,7 +26,7 @@ If you are interested in my research or would like to explore collaboration oppo
 
 Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis <br>
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
-NeurIPS 2025 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/FSTS) [![arXiv](https://img.shields.io/badge/Arxiv-2505.15173-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.12658)
+NeurIPS 2025 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/FSTS) [![arXiv](https://img.shields.io/badge/Arxiv-2505.15173-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.12658) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/FSTS)
 
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
