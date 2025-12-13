@@ -34,7 +34,7 @@ AAAI 2025 (**Oral**)  [![github](https://img.shields.io/badge/-Github-black?logo
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
-CVPR 2024  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics)
+CVPR 2024  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics) [![Paper](https://img.shields.io/badge/Paper-PDF-orange)](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffForensics_Leveraging_Diffusion_Prior_to_Image_Forgery_Detection_and_Localization_CVPR_2024_paper.html)
 
 Learning to Locate the Text Forgery in Smartphone Screenshots <br>
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
