@@ -24,21 +24,21 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Publications
 
-Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/FSTS)  
+Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis <br>
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
-The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+NeurIPS 2025 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/FSTS)
 
-Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD)  
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
-Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
+AAAI 2025 (**Oral**)  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD) 
 
-DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics)  
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+CVPR 2024  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics)
 
-Learning to Locate the Text Forgery in Smartphone Screenshots [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net)<br>
+Learning to Locate the Text Forgery in Smartphone Screenshots <br>
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
+ICASSP 2023 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net)
 > - The partial datasets proposed in this paper were applied to the ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).
 > - Additionally, a portion of this dataset has been used in the ["ICDAR 2023 DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and ["ICDAR 2023 DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E) competitions, although the organizers did not publicly disclose this..
 > - If you use the data from these competitions in your research, please cite our paper.
