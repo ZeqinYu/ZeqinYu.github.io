@@ -28,15 +28,15 @@ Toward Real-world Text Image Forgery Localization: Structured and Interpretable 
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
 The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
-Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [[Home Page]](https://github.com/ZeqinYu/Re-MTKD)  
+Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)]](https://github.com/ZeqinYu/Re-MTKD)  
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**)
 
-DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [[Home Page]](https://github.com/ZeqinYu/DiffForensics)  
+DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/DiffForensics)  
 **Zeqin Yu**, Jiangqun Ni, Yuzhen Lin, Haoyi Deng, Bin Li   
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
-Learning to Locate the Text Forgery in Smartphone Screenshots [[Home Page]](https://github.com/ZeqinYu/STFL-Net) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net)<br>
+Learning to Locate the Text Forgery in Smartphone Screenshots [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net)<br>
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 > - The partial datasets proposed in this paper were applied to the ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).
