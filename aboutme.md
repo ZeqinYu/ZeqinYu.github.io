@@ -28,7 +28,7 @@ Toward Real-world Text Image Forgery Localization: Structured and Interpretable 
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/FSTS) [![arXiv](https://img.shields.io/badge/Arxiv-2511.12658-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.12658) <br>
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
 The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br>
-[[Code]](https://github.com/ZeqinYu/FSTS)
+[[Code](https://github.com/ZeqinYu/FSTS)]
 
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD) [![arXiv](https://img.shields.io/badge/Arxiv-2504.05224-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.05224) <br>
