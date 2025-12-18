@@ -33,7 +33,7 @@ The Thirty-ninth Annual Conference on Neural Information Processing Systems (Neu
 Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization <br>
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**) <br>
-[[Code](https://github.com/ZeqinYu/Re-MTKD)] [[Paper](https://img.shields.io/badge/Arxiv-2504.05224-b31b1b.svg?logo=arXiv)] <br>
+[[Code](https://github.com/ZeqinYu/Re-MTKD)] [[Paper](https://arxiv.org/abs/2504.05224)] <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/Re-MTKD) [![arXiv](https://img.shields.io/badge/Arxiv-2504.05224-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.05224) <br>
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
