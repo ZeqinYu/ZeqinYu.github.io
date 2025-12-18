@@ -45,7 +45,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 Learning to Locate the Text Forgery in Smartphone Screenshots <br>
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) <br>
-[[Code](https://github.com/ZeqinYu/STFL-Net)] [[Paper]([https://arxiv.org/abs/2511.12658](https://ieeexplore.ieee.org/abstract/document/10095070/))] <br>
+[[Code](https://github.com/ZeqinYu/STFL-Net)] [[Paper](https://ieeexplore.ieee.org/abstract/document/10095070/)] <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
 > - The partial datasets proposed in this paper were applied to the ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).
 > - Additionally, a portion of this dataset has been used in the ["ICDAR 2023 DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and ["ICDAR 2023 DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E) competitions, although the organizers did not publicly disclose this..
