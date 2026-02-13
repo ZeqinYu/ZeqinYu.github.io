@@ -33,7 +33,6 @@ Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forg
 **Zeqin Yu**, Jiangqun Ni, Jian Zhang, Haoyi Deng, Yuzhen Lin  
 Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025) (**Oral**) <br>
 [[Code](https://github.com/ZeqinYu/Re-MTKD)] [[Paper](https://arxiv.org/abs/2504.05224)] <br>
-
 > 🏆 This method achieved [1st Place × 2](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight) in both *Detection Track* and *Localization Track* of the [ICCV 2025 DeepID Challenge](https://deepid-iccv.github.io/) (Team: Sunlight). <br>
 
 DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization <br>
