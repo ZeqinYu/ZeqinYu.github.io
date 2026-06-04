@@ -69,4 +69,4 @@ IEEE TPAMI, CVPR, ECCV, NeurIPS, ICML, ACM MM
 - **2nd** Place Award, CCF Big Data & Computing Intelligence Contest Competition, CCF-BDCI, *2021*. 
 - Other Top-10 Awards (4 times)
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=n&d=rTLazAoOacNb7FvjGxQNg_miy5LtUzT09iyoBzUQcvE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=FAh6jVrO41CXmbLIjNReASZb7kMoMLZ2ovhgR-stAC4&co=ffffff&ct=808080&cmo=61ff53&cmn=ff5353'></script>
