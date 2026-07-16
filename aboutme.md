@@ -70,6 +70,6 @@ IEEE TPAMI, CVPR, ECCV, NeurIPS, ICML, ACM MM
 <script
   type="text/javascript"
   id="mapmyvisitors"
-  src="https://mapmyvisitors.com/map.js?cl=080808&w=200&t=n&d=rTLazAoOacNb7FvjGxQNg_miy5LtUzT09iyoBzUQcvE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353">
+  src="https://mapmyvisitors.com/map.js?cl=080808&w=250&t=n&d=rTLazAoOacNb7FvjGxQNg_miy5LtUzT09iyoBzUQcvE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353">
 </script>
 
