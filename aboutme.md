@@ -66,7 +66,7 @@ IEEE TPAMI, CVPR, ECCV, NeurIPS, ICML, AAAI, ACM MM
 - **2nd** Place Award, First China Graduate Network Security Innovation Competition, CPIPC, *2022*. 
 - **3rd** Place Award, First AI based Channel Modeling and Generating Competition, OPPO, *2022*.  
 - **2nd** Place Award, CCF Big Data & Computing Intelligence Contest Competition, CCF-BDCI, *2021*. 
-- Other Top-10 Awards (4 times)
+- Other Top-10 Awards (5 times)
 
 <script
   type="text/javascript"
