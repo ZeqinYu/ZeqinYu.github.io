@@ -22,6 +22,11 @@ If you are interested in my research or would like to explore collaboration oppo
 
 # Publications
 
+MLLM-Edit: Benchmarking Image Forgery Detection and Localization under MLLM-based Editing <br>
+**Zeqin Yu**, Ye Tian, Jian Zhang, Jiangqun Ni, Lanyun Zhu, Alex Kot, Xudong Jiang  
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) <br>
+[[Code & Dataset](https://github.com/ZeqinYu/MLLM-Edit)] [[Paper]()] <br>
+
 Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis <br>
 **Zeqin Yu**, Haotao Xie, Jian Zhang, Jiangqun Ni, Wenkang Su, Jiwu Huang  
 The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) <br>
